@@ -16,6 +16,24 @@
       "message": "Do you have any issues without this chain? Can’t we wait until oneplus release their new src",
       "revId": "5ee957f4d092d5619bb2990c452ead3a7f7db419",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea1aa8da_08b26831",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34519
+      },
+      "writtenOn": "2026-11-19T07:43:45Z",
+      "side": 1,
+      "message": "We could wait if needed, i just dumped the firmware and extracted from iceland to be honest",
+      "parentUuid": "580c6e31_e5af84d8",
+      "revId": "5ee957f4d092d5619bb2990c452ead3a7f7db419",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
