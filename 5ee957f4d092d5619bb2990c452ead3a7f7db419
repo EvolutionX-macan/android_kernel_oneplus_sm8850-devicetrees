@@ -51,6 +51,24 @@
       "message": "Entire chain is verified on iceland and has no regressions yet",
       "revId": "5ee957f4d092d5619bb2990c452ead3a7f7db419",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85ee4eaa_35f5d066",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-11-19T07:49:47Z",
+      "side": 1,
+      "message": "I prefer to add only the required changes, i.e. those that cause issues on the cos 17 base. Once oneplus releases the new source, will do a clean rebase.",
+      "parentUuid": "ea1aa8da_08b26831",
+      "revId": "5ee957f4d092d5619bb2990c452ead3a7f7db419",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
